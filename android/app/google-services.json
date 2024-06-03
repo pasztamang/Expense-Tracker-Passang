@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144898093051",
+    "project_id": "athanttestt",
+    "storage_bucket": "athanttestt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144898093051:android:1c7f79dd7dd9ec7192e55e",
+        "android_client_info": {
+          "package_name": "com.example.athang_expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLefscQl729Jd_9EQYtcjXL-ATJ5aqi-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
