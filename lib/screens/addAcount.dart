@@ -59,6 +59,7 @@ class _AccountCatAddState extends State<AccountCatAdd> {
     return Container(
       child: Scaffold(
         appBar: AppBar(
+          title: Text("Add Account"),
           
         ),
        
@@ -68,8 +69,8 @@ class _AccountCatAddState extends State<AccountCatAdd> {
             children: [
               Container(
                 child: CircleAvatar(
-                  radius: 40,
-                  backgroundImage: NetworkImage("https://cdn.pixabay.com/photo/2023/09/20/15/47/fish-8265114_1280.jpg"),
+                  radius: 60,
+                  backgroundImage: NetworkImage("https://cdn.pixabay.com/photo/2021/11/05/12/07/dollars-6771227_1280.jpg"),
                 ),
               ),
               Container(

@@ -35,7 +35,6 @@ class LocalStorage {
     await prefs?.setString('_TOKEN', token);
   }
 
-
   Future<void> setTokenToBlank() async{
     await prefs?.setString('_TOKEN', '');
   }
